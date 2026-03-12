@@ -1,2 +1,2 @@
 # PacticaSprint7
-PraCTICA
+Practica
